@@ -1,6 +1,6 @@
 # vk-bots-constructor
 
-This project is VK.com bots constructor backend app. It's like a simplified [robochat.io](https://robochat.io)
+This project is VK.com bots constructor backend app. It's like a simplified [robochat.io](https://robochat.io). Ya kakashka.
 
 Built with: TypeScript, Node.js microservices, NATS as message broker, MongoDB, and Hapi.js as web-framework
 
